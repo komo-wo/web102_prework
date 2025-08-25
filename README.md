@@ -4,7 +4,7 @@ Submitted by: **Katherine Kim**
 
 **You Got Games You Want to Fund?** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -35,6 +35,7 @@ GIF created with ...  https://imgur.com/a/2biEUOJ
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Not really any particular challenges, the PDFS were really informative.
 
 ## License
 
